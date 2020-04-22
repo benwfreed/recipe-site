@@ -1,4 +1,4 @@
-##3 Yummi Grilled Cheese
+### Yummi Grilled Cheese
 
 ##Ingredients:
 
