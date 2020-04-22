@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Quarantine Recipes
+description: Simple Recipes when Cooped Up at Home
+github:
+  is_project_page: false
